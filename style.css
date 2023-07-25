@@ -1,0 +1,19 @@
+/* .bg-self{
+    background-color: #264653;
+    color: white;
+} */
+.nav-link{
+    color: white !important;
+}
+.pading-ride{
+    padding-left: 70px;
+}
+.bg-custom{
+    background-image: url("images/others/back_image.jpg");
+    color: white;
+    height: 560px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
